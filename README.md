@@ -13,7 +13,7 @@ datenschutz.html    Datenschutzerklärung
 404.html            Fehlerseite
 assets/css/         style.css (Design + Effekte), fonts.css (@font-face)
 assets/js/main.js   Navigation, Reveal, Typewriter, Zähler, Tilt, Partikelnetz, Cursor
-assets/fonts/       Inter + Space Grotesk (variable, Latin-Subset, OFL)
+assets/fonts/       Syne + Manrope (variable, Latin-Subset, OFL)
 assets/img/         Porträt
 .htaccess           Redirects (www/https), Security-Header, Caching
 ```

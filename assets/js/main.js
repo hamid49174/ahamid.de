@@ -2,6 +2,9 @@
 (function () {
   'use strict';
 
+  /* Signal fuer CSS: JS laeuft, Reveal-Elemente duerfen zunaechst versteckt sein */
+  document.documentElement.classList.add('js');
+
   var reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
   var finePointer = window.matchMedia('(pointer: fine)').matches;
   var $ = function (s, r) { return (r || document).querySelector(s); };
