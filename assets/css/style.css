@@ -378,7 +378,8 @@ code { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fo
 .icon-link { width: 38px; height: 38px; display: grid; place-items: center; border-radius: 10px; border: 1px solid var(--line-strong); text-decoration: none; font-size: 18px; transition: border-color .2s, transform .2s var(--ease), background .2s; }
 .icon-link:hover { border-color: var(--accent); background: rgba(77,159,255,.1); transform: translate(2px, -2px); }
 
-.project-shot { position: relative; border-radius: 16px; border: 1px solid var(--line-strong); background: #0a0f18; overflow: hidden; box-shadow: var(--shadow); transform: translateZ(30px); }
+.project-shot { position: relative; margin: 0; border-radius: 16px; border: 1px solid var(--line-strong); background: #0a0f18; overflow: hidden; box-shadow: var(--shadow); transform: translateZ(30px); }
+.project-shot img { display: block; width: 100%; height: auto; }
 .shot-bar { display: flex; gap: 6px; padding: 12px 14px; border-bottom: 1px solid var(--line); }
 .shot-bar span { width: 10px; height: 10px; border-radius: 50%; background: rgba(255,255,255,.14); }
 .shot-bar span:nth-child(1) { background: #ff5f57; } .shot-bar span:nth-child(2) { background: #febc2e; } .shot-bar span:nth-child(3) { background: #28c840; }
