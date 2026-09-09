@@ -32,4 +32,4 @@ Alle Dateien außer `README.md`, `LICENSE` und `.git` in das DocRoot des Webhost
 
 ## Lizenz
 
-Code: MIT. Texte, Fotos und persönliche Daten: alle Rechte vorbehalten. Siehe [LICENSE](LICENSE).
+Code: MIT, siehe [LICENSE](LICENSE). Texte, Fotos und persönliche Daten sind davon ausgenommen und bleiben alle Rechte vorbehalten. Die Schriften Syne und Manrope stehen unter der SIL Open Font License 1.1.
